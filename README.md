@@ -2,7 +2,7 @@
 
 {This code print the basic code of **Hello World**}
 
-{I did this to prove that I can write and pulich code to my get hub repository}
+{I did this to prove that I can write and publish code to my get hub repository}
 
 [Software Demo Video] https://youtu.be/sAH5-LGwjEQ
 
